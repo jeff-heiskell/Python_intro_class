@@ -1,1 +1,1 @@
-# Python_intro_class
+# Python intro class HW2
